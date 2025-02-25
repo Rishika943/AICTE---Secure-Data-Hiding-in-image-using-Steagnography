@@ -64,11 +64,18 @@ Decryption_Output
 ![Screenshot 2025-02-25 153546](https://github.com/user-attachments/assets/1011888f-96c8-47ce-b8da-ae11106bb5d8)
 
 
+
 🎯 Future Scope
+
 ✅ Support for multiple image formats (JPG, BMP, etc.)
+
 ✅ Implementation of AES encryption for extra security
+
 ✅ Development of a mobile and web application
+
 ✅ AI-based image security and tampering detection
 
+
 🙌 Contributing
+
 Feel free to fork this repository, raise issues, or contribute enhancements! 😊
