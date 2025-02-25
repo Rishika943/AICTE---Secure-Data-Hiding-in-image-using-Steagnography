@@ -1,7 +1,7 @@
 # AICTE---Secure-Data-Hiding-in-image-using-Steagnography
 
 
-📌 Project Overview
+📌 **Project Overview**
 This project provides a secure and user-friendly way to encrypt and decrypt messages within images using steganography and password protection. The message is embedded inside an image using OpenCV and can only be retrieved with the correct password.
 
 🛠️ Technologies Used
@@ -9,14 +9,17 @@ Python – Programming language
 OpenCV – Image processing
 NumPy – Array manipulation
 PyQt6 – Graphical User Interface (GUI)
-🔥 Features
+
+
+🔥 **Features**
+
 ✔ Steganography-based encryption – Hides messages within image pixels.
 ✔ Password-protected decryption – Ensures secure message retrieval.
 ✔ Graphical User Interface (GUI) – Easy-to-use interface.
 ✔ No need for external storage – The message is stored directly in the image.
 ✔ Works with PNG images – Saves encrypted images in lossless format.
 
-Install dependencies:
+**Install dependencies:**
 pip install opencv-python numpy PyQt6
 🚀 Usage
 Encrypt an Image
@@ -29,12 +32,18 @@ Run the decryption script:
 python decrypt_gui.py
 Enter the password used during encryption.
 If the password is correct, the hidden message will be revealed.
-🎯 Screenshots
+🎯** Screenshots**
 🔐 Encryption Process
 Encryption_Output
 
+![Screenshot 2025-02-25 153349](https://github.com/user-attachments/assets/fd4edcd4-e51e-4f31-a79d-bf051bf7c819)
+
+
 🔓 Decryption Process
 Decryption_Output
+
+![Screenshot 2025-02-25 153546](https://github.com/user-attachments/assets/1011888f-96c8-47ce-b8da-ae11106bb5d8)
+
 
 🎯 Future Scope
 ✅ Support for multiple image formats (JPG, BMP, etc.)
